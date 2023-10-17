@@ -1,0 +1,13 @@
+{
+    "code": {
+      "type": "String"
+    },
+    "name": {
+      "type": "String",
+      "required": true
+    },
+    "email": {
+      "type": "String"
+    }
+  }
+  
